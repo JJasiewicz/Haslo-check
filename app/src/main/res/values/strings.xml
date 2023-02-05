@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pass_check</string>
+    <string name="has_o_posiada_cyfry">Hasło posiada cyfry</string>
+</resources>
